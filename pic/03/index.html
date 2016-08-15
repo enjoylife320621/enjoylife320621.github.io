@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>放大镜</title>
+  <style>
+      *{margin:0;padding:0;}
+      #smallWrap{width:350px;height:350px;margin:50px;border:1px solid #ccc;position:relative;cursor:move;}
+      #magnifier{width:175px;height:175px;position:absolute;background-color:rgba(133,133,0,0.2);display:none;}
+      #bigWrap{width:400px;height:400px;background-image:url(img/big.jpg);position:absolute;left:450px;top:50px;border:1px solid #ccc;display:none;}
+  </style>
+  </head>
+  <body>
+
+      <div id='smallWrap'>
+        <img src='img/small.jpg'>
+        <div id='magnifier'></div>
+      </div>
+      <div id='bigWrap'></div>
+
+      <script type="text/javascript" src="script.js"></script>  
+  </body>
+</html>

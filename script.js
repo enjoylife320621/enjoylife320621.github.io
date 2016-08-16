@@ -42,13 +42,13 @@ var data = [
     { url: 'project/02/index.html', title: '仿腾讯微博' }
   ],
   [
-    { title: 'OOC'},
-    { url: 'ooc/01/index.html', title: '运动' },
-    { url: 'ooc/02/index.html', title: '照片墙' },
-    { url: 'ooc/03/index.html', title: '图片轮播' },
-    { url: 'ooc/04/index.html', title: '延时加载' },
-    { url: 'ooc/05/index.html', title: '百度有啊通栏展示' },
-    { url: 'ooc/06/index.html', title: '拖拽' },    
+    { title: 'OOP'},
+    { url: 'oop/01/index.html', title: '运动' },
+    { url: 'oop/02/index.html', title: '照片墙' },
+    { url: 'oop/03/index.html', title: '图片轮播' },
+    { url: 'oop/04/index.html', title: '延时加载' },
+    { url: 'oop/05/index.html', title: '百度有啊通栏展示' },
+    { url: 'oop/06/index.html', title: '拖拽' },    
   ],
   [
     { title: 'GAME'},
